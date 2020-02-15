@@ -1,0 +1,8 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\List lab\Polinom.h(416,19): warning C4244: аргумент: преобразование "double" в "_Elem", возможна потеря данных
+C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\List lab\Polinom.h(416,19): warning C4244:         with
+C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\List lab\Polinom.h(416,19): warning C4244:         [
+C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\List lab\Polinom.h(416,19): warning C4244:             _Elem=char
+C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\List lab\Polinom.h(416,19): warning C4244:         ]
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\Werwe\source\repos\CppCLR_WinformsProjekt1\x64\Release\CppCLR_WinformsProjekt1.exe
